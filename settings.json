@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "XRTKSMP.aternos.me:27339",
+    "ip": "XRTKSMP.aternos.me",
     "port": 27339,
     "version": "1.21.1"
   },
